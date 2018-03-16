@@ -19,6 +19,6 @@ funnction sayHiToGrandma(string){
     console.log("I can't hear you!")
   }
   else {
-    coso
+    console.log("YES INDEED")
   }
 }
